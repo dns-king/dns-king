@@ -1,4 +1,12 @@
 ### Hi there 👋 I'm Dennis, a self-taught software engineer.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 One unique aspect of my journey to becoming a self-taught software engineer is that I didn't initially plan to pursue a career in technology. I thought I'd be a soccer star.
 However, I've always had a natural curiosity and passion for technology, and I started teaching myself programming as a hobby.
@@ -10,6 +18,7 @@ As a self-taught software engineer, I enjoy both frontend and backend developmen
 - 📫 How to reach me: dennis.king2022@outlook.com
 
 <!--
+https://media.giphy.com/media/BdwcUiwMX5wNq/giphy.gif
 **dns-king/dns-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
