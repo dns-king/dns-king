@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif"/>
+  <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif" width="300" height="200"/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dennisking2022/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +12,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/xVImin7ZL8ySpVTUll/giphy.gif" width="500" height="200"/>
+  <img src="https://media.giphy.com/media/xVImin7ZL8ySpVTUll/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
@@ -20,9 +20,9 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
 
 - :telescope: I started teaching myself programming as a hobby.
 
-- :books: I quickly became hooked and spent most of my free time reading books and watching online tutorials
+- :books: I quickly became hooked and spent most of my free time reading books and watching online tutorials.
 
-- :open_file_folder: As a self-taught software engineer, I enjoy both frontend and backend development. But, if I had to choose, I would say that I love backend development the most
+- :open_file_folder: As a self-taught software engineer, I enjoy both frontend and backend development. But, if I had to choose, I would say that I love backend development the most.
 
 - :mailbox: How to reach me: dennis.king2022@outlook.com
 
@@ -43,9 +43,14 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dns-king&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 
