@@ -52,12 +52,8 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dns-king&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### :writing_hand: Blog Posts :
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-
 
 
 
