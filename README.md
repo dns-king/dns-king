@@ -24,7 +24,7 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
 
 - :open_file_folder: As a self-taught software engineer, I enjoy both frontend and backend development. But, if I had to choose, I would say that I love backend development the most.
 
-- :mailbox: How to reach me: dennis.king2022@outlook.com
+- :mailbox:Email me: dennis.king2022@outlook.com
 
 <hr />
 
