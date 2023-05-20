@@ -48,8 +48,7 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
 </div>
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dns-king&theme=dark&background=0fff00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dns-king&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ### Blog Posts :
 
