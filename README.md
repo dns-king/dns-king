@@ -50,13 +50,6 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=dns-king&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-### Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
 <!--
 https://media.giphy.com/media/xVImin7ZL8ySpVTUll/giphy.gif
 https://media.giphy.com/media/BdwcUiwMX5wNq/giphy.gif
