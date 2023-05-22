@@ -24,7 +24,7 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
 
 - :open_file_folder: As a self-taught software engineer, I enjoy both frontend and backend development. But, if I had to choose, I would say that I love backend development the most.
 
-- :mailbox:Email me: dennis.king2022@outlook.com
+- :mailbox: Send me an email: dennis.king2022@outlook.com
 
 <hr />
 
@@ -54,16 +54,16 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
 <div align="left">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=dns-king&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dns-king&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dns-king&show_icons=true&theme=transparent)
+   
 </div>
 
 
 
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dns-king&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dns-king&show_icons=true&theme=transparent)
 https://media.giphy.com/media/xVImin7ZL8ySpVTUll/giphy.gif
 https://media.giphy.com/media/BdwcUiwMX5wNq/giphy.gif
 One unique aspect of my journey to becoming a self-taught software engineer is that I didn't initially plan to pursue a career in technology. I thought I'd be a soccer star.
