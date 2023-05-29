@@ -15,8 +15,8 @@
   <img src="https://media.giphy.com/media/xVImin7ZL8ySpVTUll/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-I am a self-taught software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa!!
+### :man_technologist: Let me introduce myself :
+I am a self-taught software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa!!
 
 - :telescope: I started teaching myself programming as a hobby.
 
@@ -27,6 +27,8 @@ I am a self-taught software developer <img src="https://media.giphy.com/media/WU
 - :mailbox: Send me an email: dennis.king2022@outlook.com
 
 <hr />
+
+## "Software is a great combination between artistry and engineering." - Bill Gates
 
 ### :hammer: Languages and Tools :
 <div>
