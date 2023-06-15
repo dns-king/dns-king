@@ -50,7 +50,7 @@ I decided to teach myself how to code for a few reasons. Firstly, I've always be
 ### :fire: My Stats :
 <div align="left">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=dns-king&theme=transparent&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dns-king&theme=transparent&hide_border=true)](https://git.io/streak-stats)
    
 </div>
 
