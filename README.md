@@ -47,10 +47,4 @@ I decided to teach myself how to code for a few reasons. Firstly, I've always be
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="EXpress" alt="Express" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-<div align="left">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=dns-king&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-   
-</div>
 
