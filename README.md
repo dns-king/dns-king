@@ -15,9 +15,8 @@
   <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif" width="600" height="300" />
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## "Software is a great combination between artistry and engineering." - Bill Gates <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-## "Software is a great combination between artistry and engineering." - Bill Gates
 
 
 
