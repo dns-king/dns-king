@@ -18,8 +18,6 @@
 ### :man_technologist: Let me introduce myself :
 I am a self-taught software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa!!
 
-I decided to teach myself how to code for a few reasons. Firstly, I've always been fascinated by technology and computers. The idea of building something from scratch and bringing it to life with just a few lines of code is empowering. Secondly, as a self-taught developer, I've had the flexibility to tailor my learning according to my own pace and interests, I could choose what topics to focus on and dive deeper into areas that captivated me the most. Lastly, through self-teaching I've developed a strong sense of curiosity. The process of figuring things out on my own, troubleshooting errors, and finding solutions has been incredibly frustrating but also incredibly rewarding!... As a self-taught developer, I enjoy both frontend and backend development but if I had to choose I would say I love backend development the most.
-
 ## "Software is a great combination between artistry and engineering." - Bill Gates
 
 
