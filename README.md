@@ -15,8 +15,7 @@
   <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif" width="600" height="300" />
 </div>
 
-### :man_technologist: Let me introduce myself :
-I am a self-taught software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa!!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ## "Software is a great combination between artistry and engineering." - Bill Gates
 
