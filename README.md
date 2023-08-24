@@ -22,10 +22,10 @@
   </pre>
 </div>
 
-#### SECRET MESSEAGE
+#### ENCRYPTED MESSEAGE
 mxvw zdqwhg wr vd| l oryh |rx
 
-#### Decrypt Secret Message
+#### DECRYPT MESSAGE
 ``
 npm i crypto-js
 ``
