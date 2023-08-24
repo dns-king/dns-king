@@ -29,7 +29,8 @@ mxvw zdqwhg wr vd| l oryh |rx
 ``
 npm i crypto-js
 ``
-#### Then just copy and run the code in [decrypt.js](decrypt.js)
+
+**Then just copy and run the code in [decrypt.js](decrypt.js)**
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=dns-king&style=flat-square&color=blue" alt=""/>
