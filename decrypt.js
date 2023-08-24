@@ -1,7 +1,7 @@
 const CryptoJS = require("crypto-js");
 
 const encryptedMessage = "mxvw zdqwhg wr vd| l oryh |rx";
-const shift = 3; // Number of positions to shift characters (Caesar cipher)
+const shift = 3; 
 
 const decryptedMessage = encryptedMessage
   .split("")
