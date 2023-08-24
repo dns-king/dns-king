@@ -22,11 +22,20 @@
   </pre>
 </div>
 
+#### SECRET MESSEAGE
+mxvw zdqwhg wr vd| l oryh |rx
+
+#### Decrypt Secret Message
+``
+npm i crypto-js
+``
+#### Then just run the code in [decrypt.js](decrypt.js)
+
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=dns-king&style=flat-square&color=blue" alt=""/>
 </div>
 
-## "Software is a great combination between artistry and engineering." - Bill Gates <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### "I'd like to make the world a better place, but they won't give me the source code." - Unknown <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 
