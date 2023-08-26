@@ -38,8 +38,4 @@ npm i crypto-js
 <img src="https://komarev.com/ghpvc/?username=dns-king&style=flat-square&color=blue" alt=""/>
 </div>
 
-### "I'd like to make the world a better place, but they won't give me the source code." - Unknown <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
-
-
+### "I'd like to make the world a better place, but they won't give me the source code." - Unknown 
