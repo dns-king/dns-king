@@ -17,7 +17,7 @@
     ||| \          |||,'______|
     ||| /          /|| I==||
     ||| \       __/_||  __||__
------||-/------`-._/||-o--o---o---   dennis king, self-taught software dev.
+-----||-/------`-._/||-o--o---o---   dennis king, software dev.
   ~~~~~'
   </pre>
 </div>
